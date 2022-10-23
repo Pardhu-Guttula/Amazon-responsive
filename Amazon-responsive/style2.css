@@ -1,0 +1,13 @@
+.body{
+}
+.webpage{
+    background-image: url(https://m.media-amazon.com/images/I/711Y9Al9RNL._SX3000_.jpg);
+    background-size: cover;
+    width: 98.89vw;
+    height: 58vh;
+}
+.smallbox{
+    background-color: white;
+    width: 55px;
+    height: 40px;
+}

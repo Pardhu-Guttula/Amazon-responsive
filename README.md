@@ -20,6 +20,8 @@ Check out the live demo [here](https://first-page-of.glitch.me/amazon-responsive
 ### Desktop View
 
 ![Desktop View](image.png)
+<br><br>
+
 ![Desktop View](image-1.png)
 
 ### Tablet View

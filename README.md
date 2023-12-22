@@ -1,7 +1,5 @@
 # Amazon Responsive Webpage Clone
 
-![Amazon Clone](https://m.media-amazon.com/images/I/711Y9Al9RNL._SX3000_.jpg)
-
 ## Overview
 
 This project is a responsive webpage clone of the Amazon website, created using HTML, CSS, and Bootstrap. The goal is to showcase design skills and the ability to create a responsive user interface.

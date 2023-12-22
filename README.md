@@ -24,12 +24,10 @@ Check out the live demo [here](https://first-page-of.glitch.me/amazon-responsive
 
 ### Tablet View
 
-![Tablet View](image-2.png)
 ![Tablet View](image-3.png)
 
 ### Mobile View
 
-![Mobile View](image-4.png)
 ![Mobile View](image-5.png)
 
 ## Getting Started
